@@ -5,7 +5,8 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.0.9",
     "@testing-library/react": "^16.2.0",
-    "react": "^19.0.0"
+    "react": "^19.0.0",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
