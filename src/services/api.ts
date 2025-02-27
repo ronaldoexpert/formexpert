@@ -1,4 +1,4 @@
-﻿import { FormData } from '../types';
+import { FormData } from '../types';
 
 const username = 'Expert';
 const password = 'Expert2022*';

@@ -1,4 +1,4 @@
-﻿export interface FormData {
+export interface FormData {
     cnpj: string;
     name: string;
     sistema: string;

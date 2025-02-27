@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { FormData, FormProps } from '../types';
 
 const FormScreen: React.FC<FormProps> = ({ onSubmit }) => {

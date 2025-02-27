@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { ThankYouProps } from '../types';
 
 const ThankYouScreen: React.FC<ThankYouProps> = ({ onBackToForm }) => {
